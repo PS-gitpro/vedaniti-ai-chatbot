@@ -1,5 +1,5 @@
 ---
-title: Vedaniti Chatbot
+title: Vedaniti AI Chatbot
 emoji: 🤖
 colorFrom: indigo
 colorTo: yellow
@@ -33,8 +33,8 @@ A production-ready AI chatbot powered by **Groq LLaMA 3.3 70B**, built for Vedan
 
 ```bash
 # Clone repo
-git clone https://github.com/ps-gitpro/vedaniti-gemini-chatbot.git
-cd vedaniti-gemini-chatbot
+git clone https://github.com/ps-gitpro/vedaniti-ai-chatbot.git
+cd vedaniti-ai-chatbot
 
 # Install dependencies
 pip install -r requirements.txt

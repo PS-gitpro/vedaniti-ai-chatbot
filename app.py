@@ -12,7 +12,7 @@ if not api_key:
 
 client = Groq(api_key=api_key)
 
-MODEL_ID = "llama-3.3-70b-versatile"
+MODEL_ID = "openai/gpt-oss-120b"
 
 # --- 2. UPDATED VEDANITI STATS (from screenshot) ---
 VEDANITI_CONTEXT = """
@@ -150,4 +150,8 @@ with st.sidebar:
     st.info("**+91 9529350977**\n**info@vedaniti.com**")
     
     st.markdown("### ⚡ Powered By")
-    st.info("Groq LLaMA 3.3 70B")
+    st.info("Groq GPT-OSS 120B")
+
+
+
+

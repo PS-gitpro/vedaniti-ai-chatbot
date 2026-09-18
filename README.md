@@ -11,7 +11,7 @@ pinned: false
 
 # 🤖 Vedaniti AI Chatbot
 
-An intelligent AI-powered customer support assistant built using **Groq LLaMA 3.3 70B** and **Streamlit**, designed for Vedaniti Technologies to provide instant, accurate, and context-aware responses about software development services, solutions, and business inquiries.
+An intelligent AI-powered customer support assistant built using **Groq GPT-OSS 120B** and **Streamlit**, designed for Vedaniti Technologies to provide instant, accurate, and context-aware responses about software development services, solutions, and business inquiries.
 
 🚀 **Live Demo:** https://huggingface.co/spaces/PS-gitpro/vedaniti-ai-chatbot
 
